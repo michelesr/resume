@@ -1,71 +1,97 @@
-Markdown Resumé
-===============
-
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
-
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
+# Michele Sorcinelli
 
 
-Work Experience
----------------
+<michele.sorcinelli@gmail.com>
+<https://it.linkedin.com/in/michelesr>
+<https://github.com/michelesr>
 
-*   **Word Processor** (Redmond, WA)
+DevOps and Software Engineer
 
-    *Junior Resumé Maker*, 2006 - 2007
+## Work Experience
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+*   **DevOps Engineer**
 
-*   **\LaTeX\ + pdflatex**
+    *University of Urbino* (Urbino, Italy), Jan 2016 - Present
 
-    *Senior Resumé Maker*, 2008 - 2010
+    - Work on SmartRoadSense project: <http://smartroadsense.it>
+    - Development and maintenance of the OpenShift template for the application
+    - Deploy of the application on a private cloud OpenShift instance
+    - General development, testing, and bug fixing
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+*   **Odoo developer**
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+    *Openforce* (Remote), Apr 2016 - Sep 2016
 
-    *Web Resumé Intern*, August 2010
+    - Development of Odoo (OpenERP) modules for electronic archiving of PA
+      invoices.
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+*   **Software Tester**
 
-*   **Markdown with Pandoc**
+    *Ksenia Security Srl* (Remote), Nov 2015 - Feb 2016
 
-    *Resumé Architect*, February 2011 - present
+    - Development of several tests (~100% coverage) in a Python MQTT
+      application for IoT device management in Ksenia Security Cloud.
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+*    **DevOps Engineer**
 
+     *NeuNet cultural association* (Urbino, Italy), Nov 2015 - Dec 2015
 
-Education
----------
+    - Work on SmartRoadSense project: <http://smartroadsense.it>
+    - Development of microservices using Go and Node.js
+    - Setup of the container based development environment using Docker and Docker Compose
+    - Staging and production instances management
 
-*   **Github University** (World Wide Web)
+*   **DevOps Engineer**
 
-    *B.S. in Submodules*, May 2012
+    *beFair* (Fabriano, Italy), Apr 2015 - Sep 2015
 
+    -   Development and testing of a containerized legacy Django web application
+    -   E2E testing of AngularJS frontend with Protractor
+    -   Containerization and configuration of testing and CI tools
+    -   Tools: Protractor, Selenium, pytest, Jenkins, Docker, Docker Compose, Git
 
-Skills
-------
+*   **Linux System Administrator**
 
-*   Very experienced with Python, Markdown, \LaTeX
+    *ITC Battisti* (Fano, Italy), Nov 2013 - Mar 2014
 
-*   Familiar with GNU Make, bash
+    -   Installation and configuration of web servers and DBMSs
+    -   Task automation achieved through shell scripts
 
+## Education
 
+*   **University of Urbino** (Urbino, Italy), 105/110
+
+    *Bachelor of Applied Science (BASc) in Computer Science*, 2011-2015
+
+    Courses: Procedural and Logic Programming, Computer Architecture, Algorithms and Data
+    Structures, Calculus, Discrete Structures and Linear Algebra, Physics I,
+    Operating Systems, Databases, Computer Networks, Digital Signal and Image
+    Processing, Probability and Statistics, Physics II, Modeling and
+    Verification of Software Systems, Software Engineering, Integrated
+    Geographical Databases, Geomatics.
+
+## Publications
+
+*  **Thesis**: *"Development, Testing, and Continuous Integration of Containerized Web
+   Applications"*, available at <https://michelesr.github.io/thesis/>
+
+## Skills
+
+-  Development of applications with microservices oriented architecture,
+   containerization, setup of containerized development environments, CI and CD,
+   Linux sysadmin
+
+-  Preferred languages: Python, Go, Node.js
+-  Other languages: Bash, Lua, C, Java, C#
+-  Frameworks: Odoo, Django
+-  Tools: Docker, Docker Compose, Kubernetes, Openshift (v3), Nginx, Git, GNU
+   Make, Jenkins CI, Ansible, PostgreSQL, MySQL/MariaDB, Amazon DynamoDB, MongoDB
+
+## Languages
+
+- English: fluent in written english, fair spoken proficiency
+- Italian: native proficiency
+- Spanish: elementary proficiency
+
+- Certifications: Grade 6 in Spoken English, Trinity College London, Certificate
+issued February 2009
