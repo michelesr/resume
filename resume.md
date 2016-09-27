@@ -18,6 +18,13 @@ DevOps and Software Engineer
     - Deploy of the application on a private cloud OpenShift instance
     - General development, testing, and bug fixing
 
+*   **DevOps Engineer**
+
+    *InformaEtica* (Senigallia, Italy), Jun 2016 - Present
+    - packaging and containerization of a Django application
+    - migration from Apache to Nginx & Gunicorn
+    - Ansible deployment automation
+
 *   **Odoo developer**
 
     *Openforce* (Remote), Apr 2016 - Sep 2016
