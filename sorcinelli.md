@@ -17,6 +17,7 @@ DevOps and Software Engineer
     - Development and maintenance of the OpenShift template for the application
     - Deploy of the application on a private cloud OpenShift instance
     - General development, testing, and bug fixing
+    - Installation of OpenShift Origin on a private Atomic CentOS cluster
 
 *   **DevOps Engineer**
 
