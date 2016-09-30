@@ -97,7 +97,7 @@ DevOps and Software Engineer
 
 ## Languages
 
-- English: fluent in written english, fair spoken proficiency
+- English: fluent in written english, fair speaking proficiency
 - Italian: native proficiency
 - Spanish: elementary proficiency
 
