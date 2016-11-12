@@ -25,13 +25,13 @@ DevOps and Software Engineer
     - packaging and containerization of a Django application
     - migration from Apache to Nginx & Gunicorn
     - Ansible deployment automation
+    - VLAN and network configuration for a third-part customer
 
 *   **Odoo developer**
 
-    *Openforce* (Remote), Apr 2016 - Sep 2016
+    *Openforce* (Remote), Apr 2016 - Present
 
-    - Development of Odoo (OpenERP) modules for electronic archiving of PA
-      invoices.
+    - Development of Odoo (OpenERP) modules
 
 *   **Software Tester**
 
@@ -85,13 +85,15 @@ DevOps and Software Engineer
 
 ## Skills
 
+### Core
+
 -  Development of applications with microservices oriented architecture,
    containerization, setup of containerized development environments, CI and CD,
    Linux sysadmin
 
 -  Preferred languages: Python, Go, Node.js
--  Other languages: Bash, Lua, C, Java, C#
--  Frameworks: Odoo, Django
+-  Other languages: Javascript (client), Bash, Lua, C, Java, C#,
+-  Frameworks: Odoo, Django, AngularJS
 -  Tools: Docker, Docker Compose, Kubernetes, Openshift (v3), Nginx, Git, GNU
    Make, Jenkins CI, Ansible, PostgreSQL, MySQL/MariaDB, Amazon DynamoDB, MongoDB
 
