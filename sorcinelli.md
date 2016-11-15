@@ -85,8 +85,6 @@ DevOps and Software Engineer
 
 ## Skills
 
-### Core
-
 -  Development of applications with microservices oriented architecture,
    containerization, setup of containerized development environments, CI and CD,
    Linux sysadmin
