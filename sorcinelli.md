@@ -21,7 +21,7 @@ DevOps and Software Engineer
 
 *   **DevOps Engineer**
 
-    *InformaEtica* (Senigallia, Italy), Jun 2016 - Present
+    *InformaEtica* (Senigallia, Italy), Jun 2016 - Nov 2016
     - packaging and containerization of a Django application
     - migration from Apache to Nginx & Gunicorn
     - Ansible deployment automation
