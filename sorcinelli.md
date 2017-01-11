@@ -2,7 +2,7 @@
 
 
 <michele.sorcinelli@gmail.com>
-<https://it.linkedin.com/in/michelesr>
+<https://linkedin.com/in/michelesr>
 <https://github.com/michelesr>
 
 DevOps and Software Engineer
@@ -11,13 +11,19 @@ DevOps and Software Engineer
 
 *   **DevOps Engineer**
 
-    *University of Urbino* (Urbino, Italy), Jan 2016 - Present
+    *University of Urbino* (Urbino, Italy), Jan 2016 - Dec 2016
 
     - Work on SmartRoadSense project: <http://smartroadsense.it>
     - Development and maintenance of the OpenShift template for the application
     - Deploy of the application on a private cloud OpenShift instance
     - General development, testing, and bug fixing
     - Installation of OpenShift Origin on a private Atomic CentOS cluster
+
+*   **Odoo developer**
+
+    *Openforce* (Remote), Apr 2016 - Dec 2016
+
+    - Development of Odoo (OpenERP) modules
 
 *   **DevOps Engineer**
 
@@ -26,12 +32,6 @@ DevOps and Software Engineer
     - migration from Apache to Nginx & Gunicorn
     - Ansible deployment automation
     - VLAN and network configuration for a third-part customer
-
-*   **Odoo developer**
-
-    *Openforce* (Remote), Apr 2016 - Present
-
-    - Development of Odoo (OpenERP) modules
 
 *   **Software Tester**
 
