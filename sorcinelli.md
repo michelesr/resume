@@ -12,6 +12,19 @@ DevOps and Software Engineer
 
 *   **DevOps Engineer**
 
+    *Citizens Advice* (London, UK), Jan 2017 - Now
+
+    - Cloud infrastructure (AWS)
+    - Infrastructure as Code
+    - CI/CD automation pipeline
+    - DevOps Parity
+    - Containerization and packaging
+    - Development of automation tools
+    - Linux system administration
+    - Management of production systems
+
+*   **DevOps Engineer**
+
     *University of Urbino* (Urbino, Italy), Jan 2016 - Dec 2016
 
     - Work on SmartRoadSense project: <http://smartroadsense.it>
@@ -29,8 +42,8 @@ DevOps and Software Engineer
 *   **DevOps Engineer**
 
     *InformaEtica* (Senigallia, Italy), Jun 2016 - Nov 2016
-    - packaging and containerization of a Django application
-    - migration from Apache to Nginx & Gunicorn
+    - Packaging and containerization of a Django application
+    - Migration from Apache to Nginx & Gunicorn
     - Ansible deployment automation
     - VLAN and network configuration for a third-part customer
 
@@ -88,17 +101,25 @@ DevOps and Software Engineer
 
 -  Development of applications with microservices oriented architecture,
    containerization, setup of containerized development environments, CI and CD,
-   Linux sysadmin
+   Linux system administration
 
--  Preferred languages: Python, Go, Node.js
--  Other languages: Javascript (client), Bash, Lua, C, Java, C#,
+-  Management of cloud-based infrastructures with code (IaC), development and
+   deployment pipelines and communication with development teams to ensure good
+   practices (e.g. 12Factor)
+
+-  Development of automation tools in the DevOps context
+
+-  Preferred languages: Python, Go
+-  Other languages: Javascript, Ruby, Bash, Lua, C, Java, C#, Groovy
 -  Frameworks: Odoo, Django, AngularJS
 -  Tools: Docker, Docker Compose, Kubernetes, Openshift (v3), Nginx, Git, GNU
-   Make, Jenkins CI, Ansible, PostgreSQL, MySQL/MariaDB, Amazon DynamoDB, MongoDB
+   Make, Jenkins CI, Ansible, PostgreSQL, MySQL/MariaDB, Amazon DynamoDB, MongoDB,
+   AWS CloudFormation, Packer, Vault
+-  Cloud providers: AWS
 
 ## Languages
 
-- English: fluent in written english, fair speaking proficiency
+- English: fluent in written english, good speaking proficiency
 - Italian: native proficiency
 - Spanish: elementary proficiency
 
