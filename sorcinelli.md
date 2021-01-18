@@ -1,27 +1,41 @@
 # Michele Sorcinelli
 
-
-<michele.sorcinelli@gmail.com>
+<michelesr@autistici.org>
 <https://linkedin.com/in/michelesr>
 <https://github.com/michelesr>
 +44 7553 351879
 
 DevOps and Software Engineer
 
+## About me
+
+I've always been interested in software engineering, and even though my work experience is mainly focused of DevOps/SRE branch of the discipline, I understand the code and mechanics behind web applications and developed automation tools to make my job as SRE smoother and to empower developers with the ability of provisioning their own environments through GitOps deployment pipelines.
+
+I'm confident with the concepts of cloud native applications, and have severals years of experience with Amazon Web Services, with its strength and weaknesses.
+
+During the last years I've been involved a lot with Kubernetes on AWS, and I've been responsible of provisioning clusters in a reproducible way using infrastructure and configuration as code, as well as managing them, providing monitoring and logging systems and support for developers to deploy their own applications using GitOps practices combined with tools such as Helm and Cloudformation for managed services such as databases.
+
+I have a strong focus on technical details, and I like to consider myself as a hacker, which wants to explore and understand the details of how systems work and how they can be exploited to achieve the most of their potential.
+
+I personally prefer working with GNU/Linux, because it allows me to dig into its internals and really understand how the system operates and can be tweaked for my personal requirements.
+
+I believe in Open Source software, and try to contribute to it when appropriate, by reporting bugs or providing patches. One of my greatest achievements in the open source world was getting a patch for a driver merged in the Linux codebase.
+
 ## Work Experience
 
-*   **DevOps Engineer**
+*   **Senior DevOps Engineer**
 
     *Citizens Advice* (London, UK), Jan 2017 - Now
 
     - Cloud infrastructure (AWS)
     - Infrastructure as Code
-    - CI/CD automation pipeline
+    - CI/CD automation pipeline (Jenkins, Travis CI, GitHub actions)
     - DevOps Parity
     - Containerization and packaging
     - Development of automation tools
     - Linux system administration
     - Management of production systems
+    - Kubernetes provisioning and administration
 
 *   **DevOps Engineer**
 
@@ -107,19 +121,32 @@ DevOps and Software Engineer
    deployment pipelines and communication with development teams to ensure good
    practices (e.g. 12Factor)
 
--  Development of automation tools in the DevOps context
+-  Mature experience with Amazon Web Services as cloud provider, with strong
+   focus on automating infrastructure provisioning with generic code to ensure
+   reproducible environments
+
+-  Experience with provisioning, maintaining, and managing Kubernetes clusters on AWS,
+   monitoring, logging, observability.
+
+-  Development of automation tools in the DevOps context, such as framework to ensure
+developers can provision their own environments using the GitOps methodology
+
+-  Good knowledge of GNU/Linux and others Unix-like POSIX operating systems
 
 -  Preferred languages: Python, Go
 -  Other languages: Javascript, Ruby, Bash, Lua, C, Java, C#, Groovy
--  Frameworks: Odoo, Django, AngularJS
--  Tools: Docker, Docker Compose, Kubernetes, Openshift (v3), Nginx, Git, GNU
-   Make, Jenkins CI, Ansible, PostgreSQL, MySQL/MariaDB, Amazon DynamoDB, MongoDB,
-   AWS CloudFormation, Packer, Vault
+-  Web Frameworks: Odoo, Django, Rails
+-  Tools: Docker (and other container runtimes), Docker Compose, Kubernetes,
+  Openshift (v3), Nginx, Git, GNU Make, Jenkins CI, Ansible, PostgreSQL,
+  MySQL/MariaDB, DynamoDB, MongoDB, CloudFormation, Packer, Vault, Serverless
+  framework, Helm, EKS, ECS, Fargate, EC2, IAM, RDS, ElastiCache,
+  Elasticsearch, Redis, Prometheus, Grafana, Fluentd, Fluent bit, AWS Lambda,
+  Sumologic, New Relic, Cloudwatch, Beanstalk, CloudFront
 -  Cloud providers: AWS
 
 ## Languages
 
-- English: fluent in written english, good speaking proficiency
+- English: fluent proficiency
 - Italian: native proficiency
 - Spanish: elementary proficiency
 
